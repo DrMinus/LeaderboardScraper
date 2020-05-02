@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeaderboardScraper", "LeaderboardScraper.csproj", "{BEEA3263-8DF7-4B8C-AAAE-E497A91BD9DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEEA3263-8DF7-4B8C-AAAE-E497A91BD9DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEEA3263-8DF7-4B8C-AAAE-E497A91BD9DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEEA3263-8DF7-4B8C-AAAE-E497A91BD9DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEEA3263-8DF7-4B8C-AAAE-E497A91BD9DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0792C2D2-788F-4F71-B884-9BC9A0A270D9}
+	EndGlobalSection
+EndGlobal
